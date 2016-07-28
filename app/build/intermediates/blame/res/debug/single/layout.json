@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_row.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\layout\\setting_row.xml"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_img_list.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\layout\\activity_img_list.xml"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\layout\\list_item.xml"
+    }
+]

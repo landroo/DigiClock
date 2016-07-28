@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="setting_titles">
+        <item>Number color</item>
+        <item>Number texture</item>
+        <item>Background color</item>
+        <item>Background texture</item>
+        <item>24 Hour</item>
+		<item>Small numbers</item>
+		<item>Dummy</item>
+    </string-array>
+	
+    <string-array name="setting_descriptions">
+        <item>Color of the numbres</item>
+        <item>Texture of the numbers</item>
+        <item>Color of the background</item>
+        <item>Texture of the background</item>
+        <item>Switch between 12/24 hour</item>
+		<item>Half screen sized numbers</item>
+		<item>Dummy desc</item>
+    </string-array>
+
+</resources>

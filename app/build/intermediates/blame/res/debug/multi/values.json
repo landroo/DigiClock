@@ -1,0 +1,148 @@
+[
+    {
+        "outputFile": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 44,
+                    "endOffset": 742
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 115,
+                        "endColumn": 41,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 747,
+                    "endColumn": 52,
+                    "endOffset": 795
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 64,
+                        "endColumn": 49,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 800,
+                    "endColumn": 46,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 46,
+                        "endOffset": 61
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1133
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
