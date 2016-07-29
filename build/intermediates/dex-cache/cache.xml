@@ -5,14 +5,14 @@
         jar="C:\Work\Java\AndroidStudioProjects\DigiClock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="cbbdd660b773406bc504e50911c1ab521112fb9e">
+        sha1="f2a9fa171dfbb2ea668c778a6728da201a60f030">
         <dex dex="C:\Work\Java\AndroidStudioProjects\DigiClock\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d6353ff35de9dedb8087e8680ca9cc52967d0cf3.jar" />
     </item>
     <item
         jar="C:\Work\Java\AndroidStudioProjects\DigiClock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="f2bbe7ad44e75c18ff130aaaf2997349671d2349">
+        sha1="77dc7d87fe66928b4ca1cfbd42f277b53adba3e0">
         <dex dex="C:\Work\Java\AndroidStudioProjects\DigiClock\app\build\intermediates\pre-dexed\debug\instant-run_5caa0b4bdb38a73336e0462ef32c7403ddf6013f.jar" />
     </item>
     <item

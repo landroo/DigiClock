@@ -168,7 +168,7 @@ public class DigiClockClass
 
 		Paint imagePaint = new Paint();
 		imagePaint.setXfermode(new PorterDuffXfermode(PorterDuff.Mode.SRC_IN));
-		imagePaint.setColorFilter(new PorterDuffColorFilter(color, PorterDuff.Mode.MULTIPLY));
+		//imagePaint.setColorFilter(new PorterDuffColorFilter(color, PorterDuff.Mode.MULTIPLY));
 
 		canvas.drawBitmap(mask, 0, 0, null);
 		canvas.drawBitmap(image, 0, 0, imagePaint);

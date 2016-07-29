@@ -1,0 +1,1 @@
+CHANGED,C:\Work\Java\AndroidStudioProjects\DigiClock\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\org\landroo\digiclock\DigiClockClass.class

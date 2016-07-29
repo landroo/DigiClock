@@ -4,30 +4,38 @@
     api-level="19"
     density="xhdpi"
     format="7"
-    timestamp="197716024751369"
-    token="8227551783221075960" >
+    timestamp="271943557950941"
+    token="8227551783221075960"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="955" />
+        duration="119" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="560" />
     <task
         name="instant-run-transform"
-        duration="376" />
+        duration="37" />
     <task
         name="verifier"
-        duration="64" />
+        duration="10" />
 
     <artifact
-        location="C:\Work\Java\AndroidStudioProjects\DigiClock\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Work\Java\AndroidStudioProjects\DigiClock\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
-    <build timestamp="197716024751369" >
+    <build timestamp="271883821110920" >
         <artifact
             location="C:\Work\Java\AndroidStudioProjects\DigiClock\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="271943557950941"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Work\Java\AndroidStudioProjects\DigiClock\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

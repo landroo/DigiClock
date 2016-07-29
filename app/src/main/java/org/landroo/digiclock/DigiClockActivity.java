@@ -457,7 +457,7 @@ public class DigiClockActivity extends Activity implements UIInterface
 	
 	public void loadPreferences()
 	{
-		SharedPreferences settings = getSharedPreferences("org.landroo.digiclock.bitrack_preferences", MODE_PRIVATE);
+		SharedPreferences settings = getSharedPreferences("org.landroo.digiclock.digiclock_preferences", MODE_PRIVATE);
 		numColor = settings.getInt("numColor", 0x00000000);
 		backColor = settings.getInt("backColor", 0x00000000);
 	}		

@@ -44,11 +44,11 @@
         "source": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\drawable-xhdpi\\frame.png"
     },
     {
-        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\marble2.png",
         "source": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\drawable-xhdpi\\marble2.png"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\DigiClock\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]
